@@ -13,7 +13,7 @@ import java.sql.DriverManager;
 import java.util.List;
 
 public class DAO {
-    //static Session session = null;
+    //static Session session = null; ...
     //public static CriteriaBuilder builder;
     private static final Logger logger = LogManager.getLogger();
     public static final String DRIVER =
